@@ -1,0 +1,575 @@
+head,type,tail
+BSE SENSEX,part of,NIFTY 50
+NIFTY 50,has part,BSE SENSEX
+2023,point in time,2023
+Chair of the Federal Reserve,officeholder,Jerome Powell
+Jerome Powell,position held,Chair of the Federal Reserve
+Commercial vehicle,subclass of,Car
+Commercial vehicle,has parts of the class,Car
+HSBC,parent organization,HSBC
+HSBC,subsidiary,HSBC
+HSBC,owned by,HSBC
+HSBC,owner of,HSBC
+Twitter,instance of,Social media
+Instagram,instance of,Social media
+YouTube,instance of,Social media
+Twitter,instance of,Social media
+Instagram,instance of,Social media
+YouTube,instance of,Social media
+2023,point in time,2023
+2008,point in time,2008
+Bank of Japan,instance of,Central bank
+2015,point in time,2015
+2022,point in time,2022
+S&P 500,stock exchange,Wall Street
+S&P 500,different from,Dow Jones Industrial Average
+Dow Jones Industrial Average,different from,S&P 500
+S&P 500,part of,Wall Street
+Dow Jones Industrial Average,part of,Wall Street
+S&P 500,stock exchange,Wall Street
+Dow Jones Industrial Average,stock exchange,Wall Street
+Sharekhan,owned by,BNP Paribas
+BNP Paribas,owner of,Sharekhan
+Sharekhan,parent organization,BNP Paribas
+BNP Paribas,subsidiary,Sharekhan
+Federal Reserve,country,United States
+Money,country,United States
+Federal Reserve,has part,Money
+Federal Reserve,instance of,Money
+Federal Reserve,field of work,Monetary policy
+Monetary policy,authority,Federal Reserve
+Federal Reserve,instance of,Monetary policy
+Monetary policy,facet of,Federal Reserve
+Recession,subclass of,Recession
+Recession,has cause,Recession
+IDFC First Bank,located on street,Dalal Street
+IDFC First Bank,stock exchange,Dalal Street
+Millennials,follows,Generation X
+Generation X,followed by,Millennials
+Investment,practiced by,Investor
+Investor,field of this occupation,Investment
+Investor,field of this occupation,Investor
+2010,point in time,2010
+Stock,instance of,Asset classes
+Credit default swap,subclass of,Insurance
+Pound sterling,instance of,Currency
+Pound sterling,instance of,Foreign exchange market
+Russo-Ukrainian War,location,Ukraine
+Coronavirus,point in time,2020
+Russia,diplomatic relation,Ukraine
+Ukraine,diplomatic relation,Russia
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Russia,significant event,List of invasions and occupations of Ukraine
+List of invasions and occupations of Ukraine,participant,Russia
+Russia,significant event,List of invasions and occupations of Ukraine
+List of invasions and occupations of Ukraine,participant,Russia
+Russia,continent,Europe
+2022,point in time,2022
+India,instance of,Emerging market
+International Monetary Fund,publisher,International Monetary Fund
+International Monetary Fund,author,International Monetary Fund
+International Monetary Fund,creator,International Monetary Fund
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Russia,diplomatic relation,Ukraine
+Ukraine,diplomatic relation,Russia
+NIFTY 50,part of,BSE SENSEX
+Pelé,sport,Association football
+Eicher Motors,parent organization,Bharti Airtel
+Eicher Motors,owned by,Bharti Airtel
+BSE SENSEX,country,India
+BSE SENSEX,part of,Financial market
+Real wages,subclass of,Inflation
+Real wages,instance of,Inflation
+China–United States trade war,participant,China
+Economy of China,country,China
+2023,point in time,2023
+2022,point in time,2022
+2022,point in time,2022
+2021,point in time,2021
+COVID-19,point in time,2022
+2022,point in time,2022
+Fitch Ratings,instance of,Credit rating agency
+Federal Reserve,stock exchange,Stock market
+India,part of,Emerging market
+Hospital,subclass of,Fast-moving consumer goods
+Hospital,has part,BFSI
+Interest rate,maintained by,Federal Reserve
+Repurchase agreement,applies to jurisdiction,India
+Repurchase agreement,country,India
+Market capitalization,opposite of,Small caps
+Small caps,opposite of,Market capitalization
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Efficient-market hypothesis,facet of,Stock market
+Efficient-market hypothesis,main subject,Stock market
+2023,point in time,2023
+NIFTY 50,country,India
+2016 Summer Olympics,point in time,2016
+2016 Summer Olympics,has part,2016 Summer Olympics
+2016,part of the series,2016 Summer Olympics
+2016,point in time,2016
+2016,has part,2016 Summer Olympics
+Correlation coefficient,facet of,Statistics
+2022,point in time,2022
+2022,point in time,2022
+BSE SENSEX,part of,NIFTY 50
+NIFTY 50,has part,BSE SENSEX
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Initial public offering,said to be the same as,Initial public offering
+Mukesh Ambani,sibling,Karan Adani
+Karan Adani,sibling,Mukesh Ambani
+2023,point in time,2023
+Private bank,subclass of,Bank
+India,part of,MSCI
+MSCI,has part,India
+MSCI,has part,Emerging market
+Emerging market,part of,MSCI
+Emerging market,has part,India
+Takeover,participant,Elon Musk
+Twitter,owned by,Elon Musk
+Elon Musk,significant event,Takeover
+Initial public offering,point in time,2010
+Kudremukh Iron Ore Company,industry,Mining
+MOIL,industry,Mining
+Pelé,sport,Association football
+BSE SENSEX,country,India
+Reliance Industries,subsidiary,Bharti Airtel
+Bharti Airtel,parent organization,Reliance Industries
+Bharti Airtel,owned by,Reliance Industries
+Reliance Industries,owner of,Bharti Airtel
+Tata Consultancy Services,instance of,Market capitalization
+Reliance Industries,subsidiary,Tata Consultancy Services
+Tata Consultancy Services,parent organization,Reliance Industries
+Reliance Industries,instance of,Market capitalization
+Unilever,owner of,Bharti Airtel
+Bharti Airtel,owned by,Unilever
+Unilever,subsidiary,Bharti Airtel
+Bharti Airtel,parent organization,Unilever
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+YouTube,owned by,University of Nebraska–Lincoln
+University of Nebraska–Lincoln,owner of,YouTube
+Berkshire,owner of,Apple
+Apple,parent organization,Berkshire
+Apple,owned by,Berkshire
+Berkshire Hathaway,owner of,Apple
+Apple,owned by,Berkshire Hathaway
+Apple,parent organization,Berkshire Hathaway
+Berkshire,owner of,Apple
+Apple,owned by,Berkshire
+Russian invasion of Ukraine,has cause,Inflation
+Recession,point in time,2023
+1981,point in time,1981
+Recession,point in time,2023
+National Bureau of Economic Research,parent organization,National Bureau of Economic Research
+National Bureau of Economic Research,subsidiary,National Bureau of Economic Research
+National Bureau of Economic Research,part of,National Bureau of Economic Research
+Russo-Ukrainian War,point in time,2023
+Luxury goods,part of,S&P 500
+Finance,part of,S&P 500
+S&P 500,has part,Luxury goods
+S&P 500,has part,Finance
+Information technology,part of,S&P 500
+Health care,part of,S&P 500
+Material,part of,S&P 500
+Energy,part of,S&P 500
+S&P 500,has part,Information technology
+S&P 500,has part,Material
+S&P 500,has part,Energy
+Fidelity Magellan Fund,owned by,Peter Lynch
+Peter Lynch,owner of,Fidelity Magellan Fund
+Peter Lynch,employer,Fidelity Magellan Fund
+Fidelity Magellan Fund,founded by,Peter Lynch
+Recession,has cause,Economy
+Economy,has effect,Recession
+Recession,has effect,Economy
+Economy,has cause,Recession
+Risk arbitrage,facet of,Mergers and acquisitions
+United Rentals,industry,Infrastructure
+2022,point in time,2022
+2023,point in time,2023
+2022,point in time,2022
+2022,point in time,2022
+2000,point in time,2000
+Oil,different from,Petroleum
+Petroleum,different from,Oil
+Wage,country,Americans
+New Year,has part,New Year's Day
+New Year's Day,part of,New Year
+New Year,follows,New Year's Day
+New Year's Day,followed by,New Year
+New Year's Day,followed by,January 2
+2023,point in time,2023
+George Washington,position held,President of the United States
+Juneteenth,instance of,Federal holidays in the United States
+Emancipation,facet of,African Americans
+United States Declaration of Independence,inception,Independence Day (United States)
+United States Declaration of Independence,point in time,Independence Day (United States)
+United States Declaration of Independence,publication date,Independence Day (United States)
+Thanksgiving,country,United States
+Thanksgiving,country,Canada
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+BSE SENSEX,part of,NIFTY 50
+NIFTY 50,has part,BSE SENSEX
+BSE SENSEX,country,India
+NIFTY 50,country,India
+CASA ratio,facet of,Asset quality
+Emami,product or material produced,Health care
+Louis Vuitton,product or material produced,Luxury goods
+India,stock exchange,Stock
+Stock,country,India
+Federal Reserve,instance of,Central bank
+Russo-Ukrainian War,point in time,2019
+Russo-Ukrainian War,point in time,2022
+United States,country,United States
+Indian rupee,country,United States
+2020,followed by,2021
+2020,point in time,2020
+Dow Jones Industrial Average,stock exchange,Nasdaq
+2007–2008 financial crisis,point in time,2008
+List of wars involving Ukraine,participant,China
+China,participant in,List of wars involving Ukraine
+China,diplomatic relation,Taiwan
+Taiwan,diplomatic relation,China
+Taiwan,shares border with,China
+Price of oil,has part,Energy
+Price of oil,has effect,Energy
+S&P 500,different from,Nasdaq Composite
+Nasdaq Composite,different from,S&P 500
+Yes Bank,headquarters location,New Delhi
+Vodafone Idea Ltd,headquarters location,New Delhi
+IDFC First Bank,headquarters location,New Delhi
+Tata Steel,headquarters location,New Delhi
+Pelé,sport,Association football
+BSE SENSEX,country,India
+Axis Bank,instance of,Stock market
+Lodha Group,instance of,Stock market
+Bharat Forge,instance of,Stock market
+List of wars involving Ukraine,point in time,2022
+BSE SENSEX,instance of,Stock market
+Federal Reserve,has part,Federal funds rate
+Federal funds rate,part of,Federal Reserve
+Federal Reserve,different from,Federal funds rate
+Federal funds rate,different from,Federal Reserve
+Bajaj Finserv,part of,BSE SENSEX
+Bajaj Auto,part of,BSE SENSEX
+Coal India,part of,BSE SENSEX
+Oil and Natural Gas Corporation,part of,BSE SENSEX
+Europe,shares border with,Asia
+Asia,shares border with,Europe
+United States,shares border with,Europe
+2022,point in time,2022
+Sharekhan,owned by,BNP Paribas
+BNP Paribas,owner of,Sharekhan
+Indian rupee,replaced by,Dollar
+Dollar,replaces,Indian rupee
+2015,point in time,2015
+Price of oil,point in time,2015
+2014,point in time,2014
+Sharekhan,owned by,BNP Paribas
+BNP Paribas,owner of,Sharekhan
+Sharekhan,parent organization,BNP Paribas
+BNP Paribas,subsidiary,Sharekhan
+Oil,subclass of,Energy
+Warren Buffett,owner of,Berkshire Hathaway
+Berkshire Hathaway,owned by,Warren Buffett
+Berkshire Hathaway,owner of,Occidental Petroleum
+Occidental Petroleum,owned by,Berkshire Hathaway
+Valero Energy,owned by,Reuters
+Reuters,owner of,Valero Energy
+Valero Energy,parent organization,Reuters
+Reuters,subsidiary,Valero Energy
+PayPal,part of,S&P 500
+Marathon Petroleum,owned by,Thomson Reuters
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Russo-Ukrainian War,participant,Russia
+Russo-Ukrainian War,location,Ukraine
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Russia,diplomatic relation,Ukraine
+Ukraine,diplomatic relation,Russia
+Tata Consultancy Services,part of,BSE SENSEX
+HDFC Bank,part of,BSE SENSEX
+Infosys,part of,BSE SENSEX
+ICICI Bank,part of,BSE SENSEX
+BSE SENSEX,has part,Tata Consultancy Services
+BSE SENSEX,has part,HDFC Bank
+BSE SENSEX,has part,ICICI Bank
+BSE SENSEX,has part,Infosys
+2022,point in time,2022
+Holi,instance of,Festival
+Rama Navami,instance of,Festival
+Diwali,instance of,Festival
+Vijayadashami,followed by,Diwali
+Diwali,follows,Vijayadashami
+Reliance Industries,country,India
+HDFC Bank,country,India
+Adani Enterprises,country,India
+Tata Consultancy Services,parent organization,Infosys
+Infosys,subsidiary,Tata Consultancy Services
+Reliance Industries,subsidiary,Bharti Airtel
+Bharti Airtel,parent organization,Reliance Industries
+Bharti Airtel,owned by,Reliance Industries
+Bharti Airtel,part of,Reliance Industries
+Russia,diplomatic relation,Ukraine
+Ukraine,diplomatic relation,Russia
+List of wars involving Ukraine,point in time,2022
+Ukraine,shares border with,Russia
+Russia,diplomatic relation,Ukraine
+War as metaphor,location,Ukraine
+Ukraine,diplomatic relation,Russia
+Ukraine,shares border with,Russia
+2022,point in time,2022
+Smoot–Hawley Tariff Act,point in time,1930
+Bank of America,part of,S&P 500
+Deutsche Bank,part of,S&P 500
+S&P 500,has part,Bank of America
+S&P 500,has part,Deutsche Bank
+1929,point in time,1929
+1929,has effect,Great Depression
+Great Depression,start time,1929
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Pelé,sport,Association football
+BSE SENSEX,country,India
+Gold exchange-traded product,subclass of,Mutual fund
+Gold exchange-traded product,instance of,Stock exchange
+Gold exchange-traded product,uses,Stock exchange
+Gold exchange-traded product,stock exchange,Stock exchange
+Cost,has part,Expense
+Expense,part of,Cost
+Cost,has part,Cost
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Russia,diplomatic relation,Ukraine
+Federal Reserve,has part,Federal Open Market Committee
+Federal Open Market Committee,part of,Federal Reserve
+Federal Reserve,instance of,Central bank
+United States,diplomatic relation,European Union
+European Union,diplomatic relation,United States
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Economic sanctions,country,Russia
+Economic sanctions,country,Ukraine
+United States,diplomatic relation,European Union
+European Union,diplomatic relation,United States
+Recession,country,China
+Oil,subclass of,Industrial metal
+Occidental Petroleum,industry,Fossil fuel
+Marathon Petroleum,industry,Oil refinery
+Marathon Petroleum,industry,Energy industry
+First Solar,industry,Semiconductor industry
+Halliburton,industry,Fossil fuel
+Marathon Oil,industry,Fossil fuel
+Emerging market,part of,World economy
+Automotive industry,product or material produced,Automotive industry
+Automotive industry,has part,Automotive industry
+Automotive industry,manufacturer,Automotive industry
+Automotive industry,industry,Automotive industry
+BASF,product or material produced,Chemical substance
+Dow Chemical Company,product or material produced,Chemical substance
+PCC SE,product or material produced,Chemical substance
+Fuchs Group,product or material produced,Chemical substance
+ExxonMobil,product or material produced,Chemical substance
+"Newark, Delaware",country,United States
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Indian rupee,instance of,Currency
+"National Rural Employment Guarantee Act, 2005",country,India
+Current account (balance of payments),country,India
+HDFC securities,country,India
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Short (finance),opposite of,Long (finance)
+Long (finance),opposite of,Short (finance)
+Short (finance),use,Capital appreciation
+Market sentiment,opposite of,Market trend
+Market trend,opposite of,Market sentiment
+Market sentiment,opposite of,Market sentiment
+Income statement,part of,Balance sheet
+Cash flow statement,part of,Balance sheet
+Balance sheet,has part,Income statement
+Balance sheet,has part,Cash flow statement
+Senior management,facet of,Corporate governance
+Senior management,field of this occupation,Corporate governance
+2023,point in time,2023
+2022,point in time,2022
+2023,point in time,2022
+Purchasing Managers' Index,has part,Tertiary sector of the economy
+Tertiary sector of the economy,opposite of,Secondary sector of the economy
+Secondary sector of the economy,has part,Tertiary sector of the economy
+Tertiary sector of the economy,part of,Secondary sector of the economy
+Coronavirus,country,China
+S&P 500,different from,Nasdaq
+Dow Jones Industrial Average,different from,Nasdaq
+Nasdaq,different from,S&P 500
+Nasdaq,different from,Dow Jones Industrial Average
+2008,point in time,2008
+2008,has part,S&P 500
+2008,has part,Nasdaq
+UltraTech Cement,product or material produced,Cement
+Shree Cement,product or material produced,Cement
+UltraTech Cement,industry,Cement
+Shree Cement,industry,Cement
+East,located in the administrative territorial entity,India
+South India,located in the administrative territorial entity,India
+India,contains administrative territorial entity,East
+India,contains administrative territorial entity,South India
+India,contains administrative territorial entity,West
+West,located in the administrative territorial entity,India
+South,located in the administrative territorial entity,India
+India,contains administrative territorial entity,South
+Birla Corporation,product or material produced,Cement
+COVID-19,country,China
+Barclays,stock exchange,Wall Street
+Goldman Sachs,stock exchange,Wall Street
+Barclays,instance of,Bank
+Goldman Sachs,instance of,Bank
+COVID-19,country,China
+2022,point in time,2021
+2022,follows,2021
+2022,followed by,2023
+2021,followed by,2022
+2023,follows,2022
+2023,point in time,2023
+2021,point in time,2023
+Union budget of India,point in time,2023
+Current account (balance of payments),subclass of,Government budget balance
+Current account (balance of payments),country,India
+Current account (balance of payments),instance of,Government budget balance
+2013,point in time,2013
+2015,point in time,2015
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Russia,shares border with,Ukraine
+Ukraine,shares border with,Russia
+Russo-Ukrainian War,location,Ukraine
+Federal Reserve,instance of,Central bank
+Economy of India,country,India
+Economy of India,has part,United States dollar
+United States dollar,part of,Economy of India
+United States dollar,replaced by,United States dollar
+United States dollar,replaces,United States dollar
+Economy of India,different from,United States dollar
+United States dollar,different from,Economy of India
+2022,point in time,2022
+Russo-Ukrainian War,start time,February 24
+Currency,has part,Rupee
+Peer-to-peer lending,subclass of,Private equity
+Private equity,subclass of,Investment
+COVID-19 pandemic,point in time,2020
+COVID-19 pandemic,country,India
+Generation Z,instance of,Demographic profile
+Value investing,subclass of,Investment
+Passive management,opposite of,Stock market
+Antique,subclass of,Alternative investment
+Fintech,subclass of,New Age
+Mutual fund,subclass of,Investment fund
+Startup company,subclass of,Business
+Non-bank financial institution,subclass of,Peer-to-peer lending
+NIFTY 50,part of,BSE SENSEX
+NIFTY 50,based on,BSE SENSEX
+Bajaj Finserv,part of,BSE SENSEX
+Bharat Petroleum,part of,BSE SENSEX
+Tata Steel,part of,BSE SENSEX
+Hindalco Industries,part of,BSE SENSEX
+Bajaj Auto,part of,BSE SENSEX
+Bajaj Finance,part of,BSE SENSEX
+Pelé,sport,Association football
+BSE SENSEX,country,India
+BSE SENSEX,part of,Financial market
+NIFTY 50,country,India
+2008,point in time,2008
+BofA Securities,instance of,Stockbroker
+Nomura,instance of,Stockbroker
+Nomura,stock exchange,NIFTY 50
+2023,point in time,2023
+2023,point in time,2023
+COVID-19,country,China
+Britannia,owned by,Zee Media Corporation
+Britannia,instance of,Share (finance)
+Britannia,publisher,Zee Media Corporation
+2022,point in time,2022
+Paytm,instance of,Stock
+Elon Musk,employer,Paytm
+Elon Musk,owner of,Paytm
+Deity,has part,God
+God,part of,Deity
+Deity,has part,Deity
+Deity,part of,Deity
+Deity,has part <triplet>God,God
+Coal India,has part,Coal India
+Bharat Dynamics Limited,subsidiary,Mazagon Dock Shipbuilders
+Hindustan Aeronautics Limited,subsidiary,Mazagon Dock Shipbuilders
+Mazagon Dock Shipbuilders,parent organization,Bharat Dynamics Limited
+Mazagon Dock Shipbuilders,parent organization,Hindustan Aeronautics Limited
+Bharat Dynamics Limited,subsidiary,Hindustan Aeronautics Limited
+Hindustan Aeronautics Limited,parent organization,Bharat Dynamics Limited
+Mazagon Dock Shipbuilders,owned by,Bharat Dynamics Limited
+Bharat Dynamics Limited,parent organization,Hindustan Aeronautics Limited
+Bharat Dynamics Limited,owned by,Hindustan Aeronautics Limited
+Bharat Dynamics Limited,subsidiary,Hindustan Aeronautics Limited
+State Bank of India,instance of,Market capitalization
+HDFC Bank,instance of,Market capitalization
+Reliance Industries,owned by,Adani Enterprises
+Adani Enterprises,owner of,Reliance Industries
+Tata Consultancy Services,subsidiary,ICICI Bank
+ICICI Bank,parent organization,Tata Consultancy Services
+ICICI Bank,owned by,Tata Consultancy Services
+Tata Consultancy Services,parent organization,Infosys
+ICICI Bank,parent organization,Infosys
+Harvard Kennedy School,part of,Harvard University
+Harvard University,has part,Harvard Kennedy School
+Harvard University,subsidiary,Harvard Kennedy School
+Veterans Day,instance of,Holiday
+Christmas Eve,instance of,Holiday
+Thanksgiving,instance of,Holiday
+Christmas,instance of,Holiday
+Thanksgiving,subclass of,Holiday
+Christmas,subclass of,Holiday
+Memorial Day,point in time,May 29
+Presidents' Day,point in time,May 29
+Maundy Thursday,point in time,2023
+Maundy Thursday,instance of,Holiday
+Veterans Day,point in time,2023
+Indigenous Peoples' Day,point in time,2023
+Veterans Day,inception,2023
+2023,point in time,2023
+New Year's Eve,followed by,Saturday
+Saturday,follows,New Year's Eve
+Saturday,followed by,Sunday
+Sunday,follows,Saturday
+2022,point in time,2022
+2022,followed by,2023
+2023,point in time,2023
+Occidental Petroleum,part of,S&P 500
+Hess Corporation,part of,S&P 500
+S&P 500,has part,Occidental Petroleum
+S&P 500,has part,Hess Corporation
+Meta,owned by,Facebook
+Facebook,owner of,Meta
+Meta,parent organization,Facebook
+Facebook,subsidiary,Meta
+Recession,point in time,2023
+2023,point in time,2023
+2020,point in time,2020
+2020,follows,2023
